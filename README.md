@@ -13,4 +13,3 @@
 - TailwindCSS
 - MongoDB, Firebase
 - Git
-- 
